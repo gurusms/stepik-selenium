@@ -1,3 +1,4 @@
+# !!!----- Started this file only Admin privelegies ---!!!
 import time
 
 # webdriver это и есть набор команд для управления браузером
